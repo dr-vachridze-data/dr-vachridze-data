@@ -37,4 +37,4 @@
 ## Контакты
 
 📧 Email: [drtoria@yandex.ru](mailto:drtoria@yandex.ru)
-💼 Telegram: [linkedin.com/in/your-profile](https://t.me/@drtoria)
+💼 Telegram: [https://t.me/@drtoria](https://t.me/@drtoria)
